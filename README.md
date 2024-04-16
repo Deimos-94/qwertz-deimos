@@ -1,11 +1,13 @@
 # qwertz-deimos
-Deutsches Tastaturlayout für Windows mit Extras. qwertz-deimos fügt häufig genutzte mathematische und typografische Sonderzeichen hinzu. Das Layout ist an das standard Linux / Unix Tastaturlayout angelehnt. Als Grundlage wurde das standard deutsche Windows Tastaturlayout benutzt. Also ^^ muss zwei mal getippt werden, während „^, u“ → „û“ ergibt. „´, e“ → „é“.
+Deutsches Tastaturlayout für Windows mit Extras. qwertz-deimos fügt häufig genutzte mathematische und typografische Sonderzeichen hinzu. Das Layout ist an das standard Linux / Unix Tastaturlayout angelehnt. Als Grundlage wurde das standard deutsche Windows Tastaturlayout benutzt. Also ^^ muss zwei mal getippt werden, während <kbd>^</kbd>, <kbd>u</kbd> → û ergibt. <kbd>´</kbd>, <kbd>e</kbd> → é.
 
-Neue Sonderzeichen werden mit „AltGr“ und „Umschalt (Shift) + AltGR“ und der entsprechenden Taste eingegeben. Z.B.:
+Siehe auch https://github.com/samhocevar/wincompose für mehr Sonderzeichen und Emoji per Schnellzugriff.
 
-- „AltGr + e“ = €
-- „AltGr + u“ = ↓
-- „AltGr + Shift + u“ = ↑
+Neue Sonderzeichen werden mit <kbd>AltGr</kbd> und <kbd>⇧</kbd> + <kbd>AltGr</kbd> und der entsprechenden Taste eingegeben. Z.B.:
+
+- <kbd>AltGr</kbd> + <kbd>E</kbd> = €
+- <kbd>AltGr</kbd> + <kbd>U</kbd> = ↓
+- <kbd>AltGr</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd> = ↑
 
 ## Tastaturlayout
 ![Level1](https://github.com/Deimos-94/qwertz-deimos/assets/152740142/ac3332f5-a7f3-4903-afce-aea57e989cdd)
