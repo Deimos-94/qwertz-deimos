@@ -8,10 +8,10 @@ Neue Sonderzeichen werden mit „AltGr“ und „Umschalt (Shift) + AltGR“ und
 - „AltGr + Shift + u“ = ↑
 
 ## Tastaturlayout
-![Level1](https://github.com/Deimos-94/qwertz-deimos/assets/152740142/68932cbe-dace-4f4d-9116-8bbb5dd260aa)
-![Level2](https://github.com/Deimos-94/qwertz-deimos/assets/152740142/5072b855-6e88-409d-8c18-f2e47bc43c56)
-![Level3](https://github.com/Deimos-94/qwertz-deimos/assets/152740142/18a6f4ef-bd4d-4d2a-a840-f261c424c829)
-![Level4](https://github.com/Deimos-94/qwertz-deimos/assets/152740142/c11aa3eb-6a57-4897-9421-ebdcab40a49d)
+![Level1](https://github.com/Deimos-94/qwertz-deimos/assets/152740142/ac3332f5-a7f3-4903-afce-aea57e989cdd)
+![Level2](https://github.com/Deimos-94/qwertz-deimos/assets/152740142/781c7d93-ea7c-4f33-ad4d-8462db30793e)
+![Level3](https://github.com/Deimos-94/qwertz-deimos/assets/152740142/fc660461-ccad-4a6f-9540-d774ea74556b)
+![Level4](https://github.com/Deimos-94/qwertz-deimos/assets/152740142/906c8051-398c-4dd6-a337-c9a85ae3b89f)
 
 ## Installation
 1. [Release hier herunterladen](https://github.com/Deimos-94/qwertz-deimos/releases/latest)
