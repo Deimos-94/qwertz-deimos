@@ -20,7 +20,8 @@ Neue Sonderzeichen werden mit <kbd>AltGr</kbd> und <kbd>⇧</kbd> + <kbd>AltGr</
 2. .zip entpacken
 3. setup.exe als Administrator ausführen
 4. Das neue Tastaturlayout ist hinzugefügt, jedoch nicht als Standard aktiviert. Entweder wird per „Alt + Umschalt“ gewechselt oder das Originale QWERTZ Layout entfernt, sodass nur das neue Layout bleibt:
-![Screenshot (19)](https://github.com/Deimos-94/qwertz-deimos/assets/152740142/3f5a8c2d-1b23-4516-91b4-90cf18a5cd06)
+
+![screenshot](https://github.com/Deimos-94/qwertz-deimos/assets/152740142/dbe00a7d-a811-4840-a960-5395321261c3)
 ![Screenshot (20)](https://github.com/Deimos-94/qwertz-deimos/assets/152740142/d528df04-c0dd-4126-8053-d091719dd89d)
 ![Screenshot (23)](https://github.com/Deimos-94/qwertz-deimos/assets/152740142/29e90d68-3b21-4e47-adc3-062c221eb367)
 
