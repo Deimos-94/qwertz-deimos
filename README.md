@@ -24,3 +24,6 @@ Neue Sonderzeichen werden mit <kbd>AltGr</kbd> und <kbd>⇧</kbd> + <kbd>AltGr</
 ![screenshot](https://github.com/Deimos-94/qwertz-deimos/assets/152740142/dbe00a7d-a811-4840-a960-5395321261c3)
 ![Screenshot (20)](https://github.com/Deimos-94/qwertz-deimos/assets/152740142/d528df04-c0dd-4126-8053-d091719dd89d)
 ![Screenshot (23)](https://github.com/Deimos-94/qwertz-deimos/assets/152740142/29e90d68-3b21-4e47-adc3-062c221eb367)
+
+## Updates qwertz-deimos
+Der installer lässt sich nicht ein 2. mal ausführen, da das Tastaturlayout bereits vorhanden ist. Am einfachsten ist es die .DLL durch die neuere zu ersetzen. Auf Windows liegt qwertz-deimos unter `C:\Windows\System32\DeutschC.dll`. Wenn die Datei mit der neuen ersetzt ist kann sie am einfachsten neu geladen werden, wenn man den Windows Benutzer aus- und einloggt oder den PC neu startet.
